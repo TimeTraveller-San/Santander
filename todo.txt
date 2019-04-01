@@ -1,0 +1,8 @@
+
+
+train_df['new'] = train_df['var_21'] - train_df['var_22']
+test_df['new'] = test_df['var_21'] - test_df['var_22']
+
+^add these features
+
+categorical-ise variables
